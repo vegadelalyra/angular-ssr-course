@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/course/course.component.scss"],
+  "sourcesContent": ["\r\n.course {\r\n    text-align: center;\r\n    max-width: 390px;\r\n    margin: 20px auto 0 auto;\r\n}\r\n\r\n.course-thumbnail {\r\n    width: 150px;\r\n    margin: 20px auto 30px auto;\r\n    display: block;\r\n    border-radius:4px;\r\n}\r\n\r\n.description-cell {\r\n    text-align: left;\r\n    padding: 10px 0;\r\n}\r\n\r\n.duration-cell {\r\n    text-align: center;\r\n}\r\n\r\n.duration-cell mat-icon {\r\n    display: inline-block;\r\n    vertical-align: middle;\r\n    font-size: 20px;\r\n}\r\n\r\n.spinner-container {\r\n    height: 360px;\r\n    width: 390px;\r\n    position: fixed;\r\n}\r\n\r\n.lessons-table {\r\n    min-height: 360px;\r\n    margin-top: 10px;\r\n}\r\n\r\n.spinner-container mat-spinner {\r\n    margin: 130px auto 0 auto;\r\n}\r\n"],
+  "mappings": ";AACA,CAAA;AACI,cAAA;AACA,aAAA;AACA,UAAA,KAAA,KAAA,EAAA;;AAGJ,CAAA;AACI,SAAA;AACA,UAAA,KAAA,KAAA,KAAA;AACA,WAAA;AACA,iBAAA;;AAGJ,CAAA;AACI,cAAA;AACA,WAAA,KAAA;;AAGJ,CAAA;AACI,cAAA;;AAGJ,CAJA,cAIA;AACI,WAAA;AACA,kBAAA;AACA,aAAA;;AAGJ,CAAA;AACI,UAAA;AACA,SAAA;AACA,YAAA;;AAGJ,CAAA;AACI,cAAA;AACA,cAAA;;AAGJ,CAXA,kBAWA;AACI,UAAA,MAAA,KAAA,EAAA;;",
+  "names": []
+}

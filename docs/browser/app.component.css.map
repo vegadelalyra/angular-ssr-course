@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.scss"],
+  "sourcesContent": ["\r\nbody {\r\n  margin: 0;\r\n}\r\n\r\nmain {\r\n  margin: 30px;\r\n}\r\n\r\n.spinner-container {\r\n  height: 360px;\r\n  margin: 100px auto;\r\n  text-align: center;\r\n  max-width: 100px;\r\n}\r\n\r\n"],
+  "mappings": ";AACA;AACE,UAAA;;AAGF;AACE,UAAA;;AAGF,CAAA;AACE,UAAA;AACA,UAAA,MAAA;AACA,cAAA;AACA,aAAA;;",
+  "names": []
+}
